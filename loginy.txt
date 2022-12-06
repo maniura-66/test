@@ -1,0 +1,3 @@
+admin:passw
+maniur:poklj
+mnk:poi
