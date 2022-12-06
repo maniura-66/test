@@ -22,8 +22,7 @@ print('hello')
 ```
 ## Bash:
 ```bash
-echo -n "hghghghg" > test.txt
-cat test.txt | grep "hghg" | bas64 > b.txt
+echo -n "hghghghg" > test.txt; cat test.txt | grep "hghg" | base64 > b.txt
 ```
 ## Powershell:
 ```ps
