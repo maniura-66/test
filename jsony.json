@@ -1,0 +1,14 @@
+{
+    "id": 1,
+    "imie": "maniur",
+    "nazw": "maniurson",
+    "wiek": 38,
+    "jest_git": true,
+    "adres": {
+        "ulica": "Nordycka 666",
+        "miasto": "Niflheim"
+    },
+    "zwierze": null,
+    "hobby": ["motocykle", "hacking", "teorie spiskowe", "mitologia nordycka"]
+
+}
