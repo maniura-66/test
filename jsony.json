@@ -1,14 +1,46 @@
-{
-    "id": 1,
-    "imie": "maniur",
-    "nazw": "maniurson",
-    "wiek": 38,
-    "jest_git": true,
-    "adres": {
-        "ulica": "Nordycka 666",
-        "miasto": "Niflheim"
-    },
-    "zwierze": null,
-    "hobby": ["motocykle", "hacking", "teorie spiskowe", "mitologia nordycka"]
+[
+    {
+        "id": 1,
+        "imie": "Maniura",
+        "nazw": "Maniurson",
+        "wiek": 38,
+        "jest_git": true,
+        "adres": {
+            "ulica": "Nordycka 666",
+            "miasto": "Niflheim"
+        },
+        "zwierze": null,
+        "hobby": ["motocykle", "hacking", "teorie spiskowe", "mitologia nordycka", "muzyka metalowa"]
 
-}
+    },
+    
+    {    
+        "id": 2,
+        "imie": "Magda",
+        "nazw": "Gawro",
+        "wiek": 38,
+        "jest_git": true,
+        "adres": {
+            "ulica": "Zazimie 78",
+            "miasto": "Helheim"
+        },
+        "zwierze": "Nero",
+        "hobby": ["motocykle", "imprezy", "rysowanie", "festiwale", "podroze", "viking metal"]
+    
+    },
+
+    {    
+        "id": 3,
+        "imie": "EndJu",
+        "nazw": "Naci",
+        "wiek": 41,
+        "jest_git": true,
+        "adres": {
+            "ulica": "Strzelecka 43",
+            "miasto": "Jakies zadupie"
+        },
+        "zwierze": "Futro",
+        "hobby": ["bawienie dzieci", "majsterkowanie", "muzyka metalowa", "dobre piwko"]
+    
+    }
+]
